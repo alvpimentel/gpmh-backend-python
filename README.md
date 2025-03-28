@@ -1,6 +1,6 @@
-# 🚀 API Python de Pesquisas pro teste da GPMH
+#  API Python de Pesquisas pro teste da GPMH
 
-## 📋 Requisitos
+## Requisitos
 - Python 3.10+
 
 ## Instalação e Execução
