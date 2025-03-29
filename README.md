@@ -15,8 +15,9 @@ cd gpmh-backend-python
 pip install -r requirements.txt
 python3 main.py
 ```
-```markdown
+
 # FORMATO OBRIGATÓRIO DO XLSX
+```markdown
 | codigo_pesquisa         |     nota_1      |      nota_2     |
 |-------------------------|-----------------|-----------------|
 |                         |                 |                 |
