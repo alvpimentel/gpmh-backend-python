@@ -16,6 +16,10 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+## Sobre a rota
+- Método HTTP: POST
+- /processar
+
 ## Formato obrigatório do xlsx.
 ```markdown
 | codigo_pesquisa         |     nota_1      |      nota_2     |
