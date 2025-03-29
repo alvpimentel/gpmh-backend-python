@@ -16,7 +16,7 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-# FORMATO OBRIGATÓRIO DO XLSX
+## FORMATO OBRIGATÓRIO DO XLSX
 ```markdown
 | codigo_pesquisa         |     nota_1      |      nota_2     |
 |-------------------------|-----------------|-----------------|
