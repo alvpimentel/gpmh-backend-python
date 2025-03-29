@@ -15,10 +15,15 @@ cd gpmh-backend-python
 pip install -r requirements.txt
 python3 main.py
 ```
-
+```markdown
+# FORMATO OBRIGATÓRIO DO XLSX
+| codigo_pesquisa         |     nota_1      |      nota_2     |
+|-------------------------|-----------------|-----------------|
+|                         |                 |                 |
+```
 ## Fomarto JSON de sucesso (exemplo)
 ```bash
-  [
+[
   {
     "codigo_pesquisa": "GPTW#1234",
     "nota_1": 100,
